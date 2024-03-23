@@ -340,6 +340,7 @@ body {
 .project__grid {
   display: grid;
   gap: 1rem;
+  margin-top: 5%;
 }
 
 .project__card img {
