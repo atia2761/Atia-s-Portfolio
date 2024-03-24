@@ -20,7 +20,7 @@
       console.log(formInfo);
   
       yourName.value = '',
-      LastName.value,
+      LastName.value='',
       email.value = '',
       textarea.value = ''
   
